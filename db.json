@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Pankaj Kumbhare",
+      "email": "pk@gmail.com",
+      "contact": "7485695487",
+      "address": "Chandrapur",
+      "id": 1
+    },
+    {
+      "name": "Kapil Sharma",
+      "email": "ks@gmail.com",
+      "contact": "7485695487",
+      "address": "Chennai",
+      "id": 2
+    }
+  ]
+}
